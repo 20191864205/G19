@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 7-4 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\小高\AppData\Local\Temp\RSP10B3.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/7-4.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\git-place\C7\4T\7-4.cpp"
+]
+Creating command line "cl.exe @"C:\Users\小高\AppData\Local\Temp\RSP10B3.tmp"" 
+<h3>Output Window</h3>
+Compiling...
+7-4.cpp
+E:\git-place\C7\4T\7-4.cpp(17) : error C2143: syntax error : missing ')' before ']'
+E:\git-place\C7\4T\7-4.cpp(17) : error C2059: syntax error : ')'
+Error executing cl.exe.
+
+
+
+<h3>Results</h3>
+7-4.obj - 2 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
